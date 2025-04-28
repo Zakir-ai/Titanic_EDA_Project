@@ -12,12 +12,13 @@ Welcome to the **Titanic EDA Project**! This project focuses on extracting insig
 
 ---
 
-## 🛠 Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- NumPy
+## 🛠 Tools & Libraries Used
+- [🐍 Python 3.x](https://www.python.org/) – Programming Language
+- [🐼 Pandas](https://pandas.pydata.org/) – for data manipulation
+- [🔢 NumPy](https://numpy.org/) – for numerical operations
+- [📊 Matplotlib](https://matplotlib.org/) – for basic visualizations
+- [📉 Seaborn](https://seaborn.pydata.org/) – for enhanced data visualizations
+- [☁️ Google Colab](https://colab.research.google.com/) – for coding in the cloud
 
 ---
 
@@ -85,7 +86,7 @@ git clone <repository_link>
 
 2. **Navigate into the Project Directory:**
 ```bash
-cd titanic-eda-project
+cd titanic_EDA_Project
 ```
 
 3. **Install Required Libraries:**
@@ -99,11 +100,11 @@ pip install pandas matplotlib seaborn numpy plotly
 
 5. **Run the Jupyter Notebook:**
 ```bash
-jupyter notebook Titanic_EDA_Final.ipynb
+jupyter notebook/Google Colab Titanic_data.ipynb  
 ```
 
 6. **View the PDF Report:**
-- The generated PDF (`Titanic_EDA_Final_Report.pdf`) is available inside the project folder.
+- The generated PDF (`Titanic_Summary_of_Findings.pdf`) is available inside the project folder.
 
 ---
 
